@@ -23,4 +23,4 @@ I've presented my research here:
 Python • R • SQL • Pandas • NumPy • ggplot2 • scikit‑learn
 
 ### Connect with me!
-- [LinkedIn](linkedin.com/in/maiacz)
+- [LinkedIn](https://www.linkedin.com/in/maiacz/)
